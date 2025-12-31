@@ -1,10 +1,9 @@
 # Hi there 👋
 
-**Danielius Navickas** | IT Enthusiast from Sweden 🇸🇪
+**Danielius Navickas** | Linux & Technical Support from Sweden 🇸🇪
 
-Passionate about Linux 🐧, scripting and automation.  
-
-Currently looking for a **tech support** role while gaining hands-on experience and continuing to learn and build. 💼
+Hands-on experience with Linux servers, scripting and automation.  
+Currently seeking a **technical support** role while continuing to build and document real-world projects.
 
 ## 🔧 Tech Stack
 
@@ -18,19 +17,17 @@ Currently looking for a **tech support** role while gaining hands-on experience 
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
 - Linux (Ubuntu) & Windows
-- Bash scripting + server/VPS setup
-- HTML, CSS, JavaScript
+- Bash scripting and server/VPS setup
+- Web fundamentals (HTML, CSS, JavaScript)
 - Lua scripting
 
-**Current focus** 🚀: Linux servers, Docker, Ansible
+**Current focus:** Linux servers, Docker, Ansible
 
 ## 💡 Quick Facts
-- Problem-solver who loves debugging and efficiency
-- Always building small tools and personal projects
-- Always learning and improving every day
+- Strong problem-solving and troubleshooting mindset
+- Enjoy building small tools to automate and simplify tasks
+- Comfortable working independently with complex systems
 
 ## 📫 Connect
 Dev.to: [https://dev.to/navickas](https://dev.to/navickas)  
 Email: [danienavickas@gmail.com](mailto:danienavickas@gmail.com)
-
-Open to chat, advice or opportunities! 🚀
