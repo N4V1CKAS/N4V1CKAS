@@ -22,7 +22,7 @@ Currently looking for a **tech support** role while gaining hands-on experience 
 - HTML, CSS, JavaScript
 - Lua scripting
 
-**Learning** 🚀: Docker, Python, cloud basics, Ansible
+**Current focus** 🚀: Linux servers, Docker, Ansible
 
 ## 💡 Quick Facts
 - Problem-solver who loves debugging and efficiency
