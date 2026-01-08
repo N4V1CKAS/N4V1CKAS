@@ -3,7 +3,7 @@
 **Danielius Navickas** | Linux & Technical Support from Sweden 🇸🇪
 
 Hands-on experience with Linux servers, scripting and automation.  
-Currently seeking a **technical support** role while continuing to build and document real-world projects.
+Exploring **technical support** and **engineering** roles while building and documenting real-world systems and automation projects.
 
 ## 🔧 Tech Stack
 
