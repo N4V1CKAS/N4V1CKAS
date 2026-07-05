@@ -11,7 +11,7 @@
 
 <pre>
 $ whoami
-> linux tinkerer. chmod 777 and pray.
+> linux tinkerer. windows endurer. chmod 777 and pray.
 </pre>
 
 <pre>
@@ -26,4 +26,3 @@ tools   docker
 ↗  <a href="https://dev.to/navickas">dev.to/navickas</a>
 ↗  <a href="mailto:danienavickas@gmail.com">danienavickas@gmail.com</a>
 </pre>
-
