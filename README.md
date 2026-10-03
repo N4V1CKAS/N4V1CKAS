@@ -18,11 +18,12 @@ $ whoami
 os      windows · ubuntu
 shell   bash
 lang    python · javascript · lua · html · css
-tools   docker
+tools   docker · pterodactyl · virtfusion
 </pre>
 
 ---
 <pre>
+↗  <a href="https://falkmc.com/">FalkMC Panel</a>
 ↗  <a href="https://dev.to/navickas">dev.to/navickas</a>
 ↗  <a href="mailto:danienavickas@gmail.com">danienavickas@gmail.com</a>
 </pre>
